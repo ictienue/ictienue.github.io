@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ictienue.github.io/sitemap.html.gz
+Sitemap: https://ictienue.github.io/app/sitemap.html.gz
+Sitemap: https://ictienue.github.io/assets/sitemap.html.gz
+Sitemap: https://ictienue.github.io/css/sitemap.html.gz
+Sitemap: https://ictienue.github.io/includes/sitemap.html.gz
+Sitemap: https://ictienue.github.io/item/sitemap.html.gz
+Sitemap: https://ictienue.github.io/src/sitemap.html.gz
